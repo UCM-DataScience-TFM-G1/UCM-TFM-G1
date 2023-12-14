@@ -1,3 +1,9 @@
 [submodule "data/image/TACO-Waste-Recognition"]
 	path = data/image/TACO-Waste-Recognition
 	url = git@hf.co:datasets/RandyHuynh5815/TACO-Waste-Recognition
+[submodule "code/DialoGPT-medium"]
+	path = code/DialoGPT-medium
+	url = https://huggingface.co/microsoft/DialoGPT-medium
+[submodule "code/blenderbot-400M-distill"]
+	path = code/blenderbot-400M-distill
+	url = https://huggingface.co/facebook/blenderbot-400M-distill
