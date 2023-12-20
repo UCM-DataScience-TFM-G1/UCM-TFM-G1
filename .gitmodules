@@ -7,3 +7,12 @@
 [submodule "code/blenderbot-400M-distill"]
 	path = code/blenderbot-400M-distill
 	url = https://huggingface.co/facebook/blenderbot-400M-distill
+[submodule "data/waste-classification"]
+	path = data/waste-classification
+	url = git@hf.co:datasets/thomasavare/waste-classification
+[submodule "code/llama"]
+	path = code/llama
+	url = git@github.com:facebookresearch/llama.git
+[submodule "code/llama.cpp"]
+	path = code/llama.cpp
+	url = https://github.com/ggerganov/llama.cpp
