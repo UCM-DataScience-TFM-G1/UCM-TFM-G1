@@ -12,7 +12,10 @@
 	url = git@hf.co:datasets/thomasavare/waste-classification
 [submodule "code/llama"]
 	path = code/llama
-	url = git@github.com:facebookresearch/llama.git
+	url = https://github.com/facebookresearch/llama
 [submodule "code/llama.cpp"]
 	path = code/llama.cpp
 	url = https://github.com/ggerganov/llama.cpp
+[submodule "code/Llama-2-7b-chat-hf"]
+	path = code/Llama-2-7b-chat-hf
+	url = https://huggingface.co/meta-llama/Llama-2-7b-chat-hf
