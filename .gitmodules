@@ -1,27 +1,6 @@
 [submodule "data/image/TACO-Waste-Recognition"]
 	path = data/image/TACO-Waste-Recognition
 	url = git@hf.co:datasets/RandyHuynh5815/TACO-Waste-Recognition
-[submodule "code/DialoGPT-medium"]
-	path = code/DialoGPT-medium
-	url = https://huggingface.co/microsoft/DialoGPT-medium
-[submodule "code/blenderbot-400M-distill"]
-	path = code/blenderbot-400M-distill
-	url = https://huggingface.co/facebook/blenderbot-400M-distill
-[submodule "data/waste-classification"]
-	path = data/waste-classification
-	url = git@hf.co:datasets/thomasavare/waste-classification
-[submodule "code/llama"]
-	path = code/llama
-	url = https://github.com/facebookresearch/llama
-[submodule "code/llama.cpp"]
-	path = code/llama.cpp
-	url = https://github.com/ggerganov/llama.cpp
-[submodule "code/Llama-2-7b-chat-hf"]
-	path = code/Llama-2-7b-chat-hf
-	url = https://huggingface.co/meta-llama/Llama-2-7b-chat-hf
 [submodule "code/TFM_DataScience_APP"]
 	path = code/TFM_DataScience_APP
-	url = https://huggingface.co/spaces/ALVHB95/TFM_DataScience_APP
-[submodule "code/--force"]
-	path = code/--force
 	url = https://huggingface.co/spaces/ALVHB95/TFM_DataScience_APP
