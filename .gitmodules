@@ -19,3 +19,6 @@
 [submodule "code/Llama-2-7b-chat-hf"]
 	path = code/Llama-2-7b-chat-hf
 	url = https://huggingface.co/meta-llama/Llama-2-7b-chat-hf
+[submodule "code/TFM_DataScience_APP"]
+	path = code/TFM_DataScience_APP
+	url = https://huggingface.co/spaces/ALVHB95/TFM_DataScience_APP
