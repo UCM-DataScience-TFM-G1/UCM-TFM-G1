@@ -4,3 +4,6 @@
 [submodule "code/TFM_DataScience_APP"]
 	path = code/TFM_DataScience_APP
 	url = https://huggingface.co/spaces/ALVHB95/TFM_DataScience_APP
+[submodule "data/PDFs-TFM"]
+	path = data/PDFs-TFM
+	url = https://huggingface.co/datasets/ALVHB95/PDFs-TFM
